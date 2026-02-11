@@ -27,11 +27,3 @@ Actualmente enfocado en el aprendizaje continuo dentro del area de la seguridad 
 - Configuracion segura de servidores web y gestion de cabeceras HTTP.
 - Uso de herramientas de diagnostico como Burp Suite y Nmap.
 
-## PROYECTOS
-- Portfolio Personal: Repositorio central con mi trayectoria y habilidades.
-- Lab-Web-Security: (En desarrollo) Entorno de pruebas para practicas de seguridad.
-
-## CONTACTO
-- LinkedIn: [Tu enlace aqui]
-- GitHub: https://github.com/FJaviRodriguez
-- Email: [tu-correo@ejemplo.com]
