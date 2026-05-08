@@ -6,19 +6,19 @@ Desarrollador web enfocado en la creacion de aplicaciones robustas y seguras. Mi
 ## STACK TECNOLOGICO
 
 ### Desarrollo Web
-- Frontend: HTML5, CSS3, JavaScript, Bootstrap
-- Backend: PHP
+- Frontend: HTML5, CSS3, JavaScript, Bootstrap, React
+- Backend: PHP, Node.JS
 - Bases de Datos: SQL (MySQL)
 
 ### Ciberseguridad
 - Auditoria de Aplicaciones Web
 - Conocimiento en OWASP Top 10
 - Analisis de vulnerabilidades
-- Hardening de entornos Linux
+- Hardening de redes
 
 ### Herramientas y Entornos
 - Control de versiones: Git / GitHub
-- Sistemas: Linux (Kali, Parrot, Ubuntu)
+- Sistemas: Linux/Unix
 - Docker y Virtualizacion
 
 ## ESPECIALIZACION EN SEGURIDAD
